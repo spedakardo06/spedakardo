@@ -47,10 +47,10 @@ First Year software Engineering Student At Qaiwan International University| High
 ### Courses
 
 *TIS:*
--Poster Assignment:
+- Poster Assignment:
 Researched on the reflections on the importance of cybersecurity in the digital age allowed me to explore how essential it is to protect personal and organizational data in an increasingly connected world. Through my research, I gained a deeper understanding of common cyber threats and the role individuals and institutions play in preventing them. This project not only strengthened my awareness of digital safety but also enhanced my ability to communicate key information clearly and effectively. It reminded me that cybersecurity is not just a technical issue but a shared responsibility in today’s digital society.
 
--Web Design Concept - StickLab
+- Web Design Concept - StickLab
 Researched effective techniques for adding depth to web design, focusing on the use of layering, shadows, gradients, and motion to create visually engaging and intuitive user experiences. Explored how depth can guide attention, improve usability, and enhance the overall aesthetic of a digital interface.
 
 
