@@ -56,7 +56,7 @@ Researched effective techniques for adding depth to web design, focusing on the 
 
 *Integrity & Anti-Corruption:*
 
--Group Presentation- Integrity in Cybersecurity
+- Group Presentation- Integrity in Cybersecurity
 Researched and presented on the importance of integrity in cybersecurity.
 
 
